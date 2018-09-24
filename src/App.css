@@ -1,0 +1,40 @@
+<!--
+-->
+
+li {
+  border: 3px red;
+  display: block;
+}
+.Style-Logo{
+  height:100px;
+}
+.Style-Head{
+
+  background-color: grey;
+  color: white;
+}
+.Style-Body{
+
+  background-color: white; 
+}
+.Style-H1{
+  font: serif;
+  font-style:normal;
+  font-size: medium;
+  color: red;
+}
+.Style-H2{
+  font: Verdana;
+  font-size: medium;
+}
+.Style-P{
+  font: courier;
+  font-size: small;
+}
+
+.BorderSimple{
+  border: 10px;
+  border-color: red;
+}
+
+
